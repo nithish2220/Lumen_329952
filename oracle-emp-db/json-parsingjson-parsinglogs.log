@@ -1,0 +1,222 @@
+02/Oct/2021 21:36:05,379- root: Main Application is Started
+02/Oct/2021 21:36:06,532- root: Connection to Database is Successfull !
+02/Oct/2021 21:36:09,291- root: User selected option :=4
+02/Oct/2021 21:37:58,603- root: Main Application is Started
+02/Oct/2021 21:37:59,520- root: Connection to Database is Successfull !
+02/Oct/2021 21:38:01,248- root: User selected option :=1
+02/Oct/2021 21:38:01,248- root: *****************************************************
+02/Oct/2021 21:38:01,248- root: findAll() method is called
+02/Oct/2021 21:38:01,545- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 21:38:01,545- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 21:38:01,546- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 21:38:01,546- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 21:38:01,546- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 21:38:01,547- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 21:38:01,547- root: All Employee Details are successfully sent!
+02/Oct/2021 21:38:01,547- root: *****************************************************
+02/Oct/2021 21:38:06,712- root: User selected option :=4
+02/Oct/2021 21:41:54,178- root: Main Application is Started
+02/Oct/2021 21:41:55,174- root: Connection to Database is Successfull !
+02/Oct/2021 21:41:58,852- root: User selected option :=4
+02/Oct/2021 21:44:06,286- root: Main Application is Started
+02/Oct/2021 21:44:07,239- root: Connection to Database is Successfull !
+02/Oct/2021 21:44:09,110- root: User selected option :=4
+02/Oct/2021 21:51:18,470- root: Main Application is Started
+02/Oct/2021 21:51:19,574- root: Connection to Database is Successfull !
+02/Oct/2021 21:51:28,688- root: User selected option :=4
+02/Oct/2021 21:52:14,052- root: Main Application is Started
+02/Oct/2021 21:52:14,958- root: Connection to Database is Successfull !
+02/Oct/2021 21:52:16,624- root: User selected option :=4
+02/Oct/2021 22:12:03,824- root: Main Application is Started
+02/Oct/2021 22:12:04,871- root: Connection to Database is Successfull !
+02/Oct/2021 22:12:10,901- root: User selected option :=1
+02/Oct/2021 22:12:10,902- root: *****************************************************
+02/Oct/2021 22:12:10,902- root: findAll() method is called
+02/Oct/2021 22:12:11,180- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:12:11,181- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:12:11,181- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:12:11,181- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:12:11,181- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:12:11,182- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:12:11,182- root: All Employee Details are successfully sent!
+02/Oct/2021 22:12:11,182- root: *****************************************************
+02/Oct/2021 22:12:19,877- root: User selected option :=4
+02/Oct/2021 22:12:39,401- root: Main Application is Started
+02/Oct/2021 22:12:40,282- root: Connection to Database is Successfull !
+02/Oct/2021 22:12:42,521- root: User selected option :=4
+02/Oct/2021 22:14:39,484- root: *****************************************************
+02/Oct/2021 22:14:39,484- root: editing the Employee details method is called!
+02/Oct/2021 22:14:39,488- root: Employee Data Updated Successfully
+02/Oct/2021 22:14:39,488- root: Updated Data:0, Nithish, Sasanala, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-08, 2021-02-08
+02/Oct/2021 22:14:39,488- root: *****************************************************
+02/Oct/2021 22:14:41,936- root: User selected option :=1
+02/Oct/2021 22:14:41,936- root: *****************************************************
+02/Oct/2021 22:14:41,937- root: findAll() method is called
+02/Oct/2021 22:14:42,011- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:14:42,012- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:14:42,012- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:14:42,012- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:14:42,012- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:14:42,013- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:14:42,013- root: All Employee Details are successfully sent!
+02/Oct/2021 22:14:42,013- root: *****************************************************
+02/Oct/2021 22:18:10,150- root: Main Application is Started
+02/Oct/2021 22:18:11,265- root: Connection to Database is Successfull !
+02/Oct/2021 22:18:15,918- root: User selected option :=1
+02/Oct/2021 22:18:15,918- root: *****************************************************
+02/Oct/2021 22:18:15,919- root: findAll() method is called
+02/Oct/2021 22:18:16,204- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:18:16,205- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:18:16,205- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:18:16,205- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:18:16,205- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:18:16,206- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:18:16,206- root: All Employee Details are successfully sent!
+02/Oct/2021 22:18:16,206- root: *****************************************************
+02/Oct/2021 22:18:20,862- root: User selected option :=3
+02/Oct/2021 22:18:25,821- root: *****************************************************
+02/Oct/2021 22:18:25,822- root: FindBy Employee Menthod called by the User
+02/Oct/2021 22:18:25,828- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:18:25,828- root: *****************************************************
+02/Oct/2021 22:18:31,517- root: User selected option :=3
+02/Oct/2021 22:18:34,494- root: *****************************************************
+02/Oct/2021 22:18:34,494- root: FindBy Employee Menthod called by the User
+02/Oct/2021 22:18:34,496- root: *****************************************************
+02/Oct/2021 22:18:53,005- root: User selected option :=4
+02/Oct/2021 22:19:22,220- root: *****************************************************
+02/Oct/2021 22:19:22,220- root: editing the Employee details method is called!
+02/Oct/2021 22:19:22,241- root: Employee Data Updated Successfully
+02/Oct/2021 22:19:22,241- root: Updated Data:0, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-08, 2021-02-25
+02/Oct/2021 22:19:22,242- root: *****************************************************
+02/Oct/2021 22:19:25,292- root: User selected option :=1
+02/Oct/2021 22:19:25,292- root: *****************************************************
+02/Oct/2021 22:19:25,292- root: findAll() method is called
+02/Oct/2021 22:19:25,295- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:19:25,295- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:19:25,296- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:19:25,296- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:19:25,297- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:19:25,298- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:19:25,298- root: All Employee Details are successfully sent!
+02/Oct/2021 22:19:25,298- root: *****************************************************
+02/Oct/2021 22:29:45,213- root: Main Application is Started
+02/Oct/2021 22:29:46,258- root: Connection to Database is Successfull !
+02/Oct/2021 22:29:49,229- root: User selected option :=1
+02/Oct/2021 22:29:49,230- root: *****************************************************
+02/Oct/2021 22:29:49,230- root: findAll() method is called
+02/Oct/2021 22:29:49,503- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:29:49,503- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:29:49,503- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:29:49,504- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:29:49,504- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:29:49,504- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:29:49,505- root: All Employee Details are successfully sent!
+02/Oct/2021 22:29:49,505- root: *****************************************************
+02/Oct/2021 22:29:57,949- root: User selected option :=3
+02/Oct/2021 22:30:01,844- root: *****************************************************
+02/Oct/2021 22:30:01,844- root: FindBy Employee Menthod called by the User
+02/Oct/2021 22:30:01,850- root: 101, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:30:01,850- root: *****************************************************
+02/Oct/2021 22:30:10,901- root: User selected option :=4
+02/Oct/2021 22:30:19,422- root: Main Application is Started
+02/Oct/2021 22:30:20,355- root: Connection to Database is Successfull !
+02/Oct/2021 22:30:21,477- root: User selected option :=4
+02/Oct/2021 22:30:32,999- root: *****************************************************
+02/Oct/2021 22:30:32,999- root: editing the Employee details method is called!
+02/Oct/2021 22:41:22,021- root: Main Application is Started
+02/Oct/2021 22:41:23,045- root: Connection to Database is Successfull !
+02/Oct/2021 22:41:26,343- root: User selected option :=4
+02/Oct/2021 22:41:41,593- root: *****************************************************
+02/Oct/2021 22:41:41,593- root: editing the Employee details method is called!
+02/Oct/2021 22:41:41,610- root: Employee Data Updated Successfully
+02/Oct/2021 22:41:41,610- root: Updated Data:0, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:41:41,610- root: *****************************************************
+02/Oct/2021 22:41:50,909- root: User selected option :=4
+02/Oct/2021 22:43:18,230- root: *****************************************************
+02/Oct/2021 22:43:18,230- root: editing the Employee details method is called!
+02/Oct/2021 22:43:18,238- root: Employee Data Updated Successfully
+02/Oct/2021 22:43:18,238- root: Updated Data:0, Karna, Suryaputra, Angaraajyam, karna@gmail.com, 4567891235, 1600-02-02, 2021-02-25
+02/Oct/2021 22:43:18,238- root: *****************************************************
+02/Oct/2021 22:46:34,799- root: Main Application is Started
+02/Oct/2021 22:46:35,938- root: Connection to Database is Successfull !
+02/Oct/2021 22:46:37,706- root: User selected option :=4
+02/Oct/2021 22:46:46,676- root: *****************************************************
+02/Oct/2021 22:46:46,676- root: editing the Employee details method is called!
+02/Oct/2021 22:46:46,694- root: Employee Data Updated Successfully
+02/Oct/2021 22:46:46,694- root: Updated Data:0, Nithish, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:46:46,695- root: *****************************************************
+02/Oct/2021 22:46:51,889- root: User selected option :=4
+02/Oct/2021 22:47:21,184- root: *****************************************************
+02/Oct/2021 22:47:21,184- root: editing the Employee details method is called!
+02/Oct/2021 22:47:21,214- root: Employee Data Updated Successfully
+02/Oct/2021 22:47:21,215- root: Updated Data:0, Sasanala, Nithish, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2022-02-02
+02/Oct/2021 22:47:21,215- root: *****************************************************
+02/Oct/2021 22:49:05,250- root: Main Application is Started
+02/Oct/2021 22:49:06,231- root: Connection to Database is Successfull !
+02/Oct/2021 22:49:08,632- root: User selected option :=4
+02/Oct/2021 22:49:31,299- root: *****************************************************
+02/Oct/2021 22:49:31,299- root: editing the Employee details method is called!
+02/Oct/2021 22:49:31,305- root: Employee Data Updated Successfully
+02/Oct/2021 22:49:31,305- root: Updated Data:101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:49:31,305- root: *****************************************************
+02/Oct/2021 22:49:59,821- root: Main Application is Started
+02/Oct/2021 22:50:00,769- root: Connection to Database is Successfull !
+02/Oct/2021 22:50:03,384- root: User selected option :=1
+02/Oct/2021 22:50:03,384- root: *****************************************************
+02/Oct/2021 22:50:03,385- root: findAll() method is called
+02/Oct/2021 22:50:03,657- root: 101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:50:03,657- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:50:03,657- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:50:03,658- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:50:03,658- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:50:03,658- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:50:03,658- root: All Employee Details are successfully sent!
+02/Oct/2021 22:50:03,658- root: *****************************************************
+02/Oct/2021 22:50:09,133- root: User selected option :=3
+02/Oct/2021 22:50:11,796- root: *****************************************************
+02/Oct/2021 22:50:11,796- root: FindBy Employee Menthod called by the User
+02/Oct/2021 22:50:11,803- root: *****************************************************
+02/Oct/2021 22:50:15,438- root: User selected option :=3
+02/Oct/2021 22:50:19,800- root: *****************************************************
+02/Oct/2021 22:50:19,801- root: FindBy Employee Menthod called by the User
+02/Oct/2021 22:50:19,804- root: 101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:50:19,805- root: *****************************************************
+02/Oct/2021 22:50:25,433- root: User selected option :=4
+02/Oct/2021 22:50:31,388- root: Main Application is Started
+02/Oct/2021 22:50:32,301- root: Connection to Database is Successfull !
+02/Oct/2021 22:50:33,329- root: User selected option :=4
+02/Oct/2021 22:50:39,859- root: *****************************************************
+02/Oct/2021 22:50:39,859- root: editing the Employee details method is called!
+02/Oct/2021 22:50:39,864- root: Employee Data Updated Successfully
+02/Oct/2021 22:50:39,864- root: Updated Data:101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:50:39,865- root: *****************************************************
+02/Oct/2021 22:50:46,935- root: User selected option :=5
+02/Oct/2021 22:50:55,883- root: Find by Birthday is called with value:=2000-02-02
+02/Oct/2021 22:50:55,890- root: 101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:50:55,891- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:50:55,891- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:50:55,891- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:50:55,891- root: *****************************************************
+02/Oct/2021 22:51:02,415- root: User selected option :=1
+02/Oct/2021 22:51:02,415- root: *****************************************************
+02/Oct/2021 22:51:02,415- root: findAll() method is called
+02/Oct/2021 22:51:02,417- root: 101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:51:02,418- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:51:02,418- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:51:02,418- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:51:02,418- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:51:02,419- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:51:02,419- root: All Employee Details are successfully sent!
+02/Oct/2021 22:51:02,419- root: *****************************************************
+02/Oct/2021 22:51:08,915- root: User selected option :=7
+02/Oct/2021 22:51:08,915- root: *****************************************************
+02/Oct/2021 22:51:08,915- root: findAll() method is called
+02/Oct/2021 22:51:08,917- root: 101, Sasanala, Kumar, Kothagudem, sasanala@gmail.com, 9254862471, 2000-02-02, 2021-02-25
+02/Oct/2021 22:51:08,917- root: 121, Kiran, Kumar, Kadapa, kiran@gmail.com, 9254862474, 2000-04-01, 2021-02-25
+02/Oct/2021 22:51:08,918- root: 131, Flenn, Twister, Pune, flenn@gmail.com, 9254862478, 2000-04-01, 2021-04-25
+02/Oct/2021 22:51:08,918- root: 141, Ravi, Shastri, Chennai, ravi@gmail.com, 9254862475, 2000-02-02, 2021-03-25
+02/Oct/2021 22:51:08,918- root: 151, Ram, Nath, Hyderabad, ram@gmail.com, 9254862412, 2000-02-02, 2021-03-25
+02/Oct/2021 22:51:08,918- root: 161, kevin, peter, UK, kevin@gmail.com, 1234567896, 2000-02-02, 2025-05-23
+02/Oct/2021 22:51:08,919- root: All Employee Details are successfully sent!
+02/Oct/2021 22:51:08,919- root: *****************************************************
+02/Oct/2021 22:51:16,831- root: User selected option :=8
